@@ -27,6 +27,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-uIKxG5TKn38uMAokw3rvSIg6PrGnc2QcA&s" height="30" alt="Bootstrap logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" height="30" alt="Tailwind logo"  />
+   <img src="https://raw.githubusercontent.com/t4t5/sweetalert/e3c2085473a0eb5a6b022e43eb22e746380bb955/assets/logotype.png" height="30" alt="Sweetalert logo"  />
 </div>
 
 ###
