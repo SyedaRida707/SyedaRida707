@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Syeda Rida and I'm a passionate to convert imaginary web into reality base, from karachi</h2>
 
 ###
 
