@@ -47,11 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SyedaRida707&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/SyedaRida707/SyedaRida707/output/snake.svg" alt="Snake animation" />
-
-###
 
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
